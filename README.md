@@ -24,3 +24,6 @@ http://learn.adafruit.com/32x16-32x32-rgb-led-matrix/wiring-the-16x32-matrix
 Also it has to connect 2 10k potentiometers at A4 and A5 as described in 
 http://arduino.cc/en/Tutorial/TFTPong
 
+
+Youtube Video at: http://youtu.be/No2lRQX_kz8
+
